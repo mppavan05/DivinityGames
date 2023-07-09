@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: e47cd4b2f7fbd47668925f3d9a62e5ad
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: c4dde32e6045444caaffb525c6f2eb24
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Rummy.unity
+    guid: 79b336a125bde4d458d3f273f3b06237
+  - enabled: 1
+    path: Assets/Scenes/TeenPatti.unity
+    guid: 94809bd4a08ee4a54bfaeead1381f38c
+  - enabled: 1
+    path: Assets/Scenes/Poker.unity
+    guid: 32a92cae2952f443d8ca710282a02390
+  - enabled: 1
+    path: Assets/Scenes/Ludo.unity
+    guid: 43f5778ea6f174a1cb2317a89092906a
+  - enabled: 1
+    path: Assets/Scenes/8BallPool.unity
+    guid: 55a038a6dc312374687e7c4b80f11c95
+  - enabled: 1
+    path: Assets/ArcheryShooting/Scenes/Archery.unity
+    guid: 26edbce736efd4a23bab3aa0f7f8ed4b
+  - enabled: 1
+    path: Assets/Scenes/Carrom.unity
+    guid: aaa455ae22d8f4e0789ce0adbcd617ad
+  - enabled: 1
+    path: Assets/Chess/Scenes/Chess.unity
+    guid: 62c5940117907de43becfd2505b9c2d4
+  - enabled: 1
+    path: Assets/Scenes/Slot.unity
+    guid: 1b6f9adcaed688a46b4fe931f655bb69
+  m_configObjects: {}

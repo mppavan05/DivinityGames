@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">564012083826</string>
+  <string name="google_storage_bucket" translatable="false">divinitygames-a3899.appspot.com</string>
+  <string name="project_id" translatable="false">divinitygames-a3899</string>
+  <string name="google_api_key" translatable="false">AIzaSyAbjZ5M3ShELo1qGFdVyddVgxq_kODpT44</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAbjZ5M3ShELo1qGFdVyddVgxq_kODpT44</string>
+  <string name="google_app_id" translatable="false">1:564012083826:android:e7852292bb763e1c85f0eb</string>
+  <string name="default_android_client_id" translatable="false">564012083826-kupntdeota0m08fq4cst38l3t6fgkb92.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">564012083826-6jgtp7alb297rh9o99u3cktgsscbijog.apps.googleusercontent.com</string>
+</resources>

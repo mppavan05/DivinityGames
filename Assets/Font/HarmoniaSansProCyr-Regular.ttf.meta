@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3d9255b523150408f81893d44d651c1b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Harmonia Sans Pro Cyr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3ae2272ffd724de5b1d19ee610746bf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
