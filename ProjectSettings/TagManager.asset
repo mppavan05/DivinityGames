@@ -3,7 +3,37 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pot
+  - WhiteBall
+  - Ball1
+  - Ball2
+  - Ball3
+  - Ball4
+  - Ball5
+  - Ball6
+  - Ball7
+  - Ball8
+  - Ball9
+  - Ball10
+  - Ball11
+  - Ball12
+  - Ball13
+  - Ball14
+  - Ball15
+  - Ball
+  - WhiteBallLimit
+  - bumper
+  - callPocket
+  - Pot1
+  - Pot2
+  - Pot3
+  - Pot4
+  - Pot5
+  - Pot6
+  - CueForcePower
+  - CueAimPower
+  - CueTimePower
   layers:
   - Default
   - TransparentFX
@@ -13,10 +43,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - WhiteBall
+  - Pots
+  - Balls
+  - WhiteBallBeforeCollision
   - 
   - 
   - 
@@ -38,6 +68,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: tableLayer
+    uniqueID: 881896937
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
